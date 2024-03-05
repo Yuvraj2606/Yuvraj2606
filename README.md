@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuvraj2606
+- 👋 Hi, I’m Yuvraj Varshney(@Yuvraj2606)
 - To secure a challenging Software Developer position that utilizes my technical expertise, analytical thinking, and creativity
   to contribute to the success of the company.
 - Software engineer passionate about building innovative solutions. Currently exploring the intersections of AI, web development, and open-source.
